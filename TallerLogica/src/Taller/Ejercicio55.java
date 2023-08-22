@@ -16,6 +16,7 @@ public class Ejercicio55 {
     static Scanner sc2 = new Scanner(System.in);
     static double saldo = 300000;
     static int clave = 1234;
+    static int pass;
 
     public static void main(String[] args) {
         menu();
