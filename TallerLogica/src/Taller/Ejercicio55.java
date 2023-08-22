@@ -41,6 +41,7 @@ public class Ejercicio55 {
                     break;
                 case 3:
                     System.out.println("Usted va a cambiar la clave");
+                    System.out.println("Ingrese la clave actual");
                     int clave3 = sc.nextInt();
                     if (clave3 == clave) {
                         int pass = cambioClave();
